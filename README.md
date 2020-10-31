@@ -8,7 +8,7 @@ This website is an imitation from real website "Rainbow Six", and provides infor
 This project using HTML and CSS, so you can run it directly
 
 ## Project's Preview
-
+<p align="center"><img src="Blueprint_home.jpg"></p><br>
 
 ## Technologies
 ▸ HTML<br>

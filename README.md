@@ -3,7 +3,7 @@ This is a project to fulfill requirement in Human Computer Interaction Subject a
 
 ## Descriptions
 This website is an imitation from real website "Rainbow Six", and provides information about the game (maps, characters, etc). 
-Please have a quick look with project's preview below. Thank you!
+<br>Please have a quick look with project's preview below. Thank you!
 
 ## Run Guide
 This project using HTML and CSS, so you can run it directly

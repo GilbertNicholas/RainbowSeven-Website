@@ -14,4 +14,5 @@ This project using HTML and CSS, so you can run it directly
 ## Technologies
 ▸ HTML<br>
 ▸ CSS<br>
+▸ Javascript<br>
 ▸ Visual Studio Code<br>
